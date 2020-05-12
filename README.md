@@ -1,5 +1,7 @@
 # Node.cs
-<strong>simple lightweight csharp server . set up your site fast</strong> support xamarin platform too
+<strong>simple lightweight csharp server . set up your site fast</strong>
+this ducument will update soon
+support xamarin too
 
 ## let's SET UP SERVER ->
 create server
